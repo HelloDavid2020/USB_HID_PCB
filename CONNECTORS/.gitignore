@@ -1,0 +1,20 @@
+﻿History
+__Previews
+Project Logs for BOLLBOT
+*.o
+*.tmp
+*.TMP
+*.wspos
+*.wsdt
+*.bat
+*.crun
+*.dbgdt
+*.jlink
+*.xml
+*.dep
+*.ewd
+*.ewt
+
+!清除工程.bat
+Tasks/._LED_Task.c
+Tasks/._LED_Task.h
