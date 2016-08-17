@@ -39,40 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=æ€¿˚‘∆OBD≤‚ ‘∞ÂC16K014B1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BSHXVIDC
-
-[Document2]
-DocumentPath=..\PcbLib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PINFJEMS
-
-[Document3]
 DocumentPath=MCU_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,8 +55,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHAWTXPJ
 
-[Document4]
-DocumentPath=MCU_USB1.PcbDoc
+[Document2]
+DocumentPath=MCU_USB_V102.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,12 +72,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTTTQTYD
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MCU_USB\Design Rule Check - MCU_USB.html
+[Document3]
+DocumentPath=MCU_USB1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BMUYVSUI
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for CONNECTORS\Design Rule Check - PCB1.html
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MCU_USB\Design Rule Check - MCU_USB1.html
 DItemRevisionGUID=
 
 [Configuration1]

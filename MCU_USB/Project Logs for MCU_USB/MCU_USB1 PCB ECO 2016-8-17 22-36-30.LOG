@@ -1,0 +1,4 @@
+Added Component: Designator=R1(0603R)
+Added Pin To Net: NetName=USB_DP Pin=R1-1
+Added Pin To Net: NetName=VCC_+3.3V Pin=R1-2
+Added Member To Class: ClassName=MCU_USB Member=Component R1 Res_0603
