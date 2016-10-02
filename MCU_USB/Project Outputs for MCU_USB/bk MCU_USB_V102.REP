@@ -1,0 +1,34 @@
+*************************************************************
+FileName = bk MCU_USB_V102.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : bk MCU_USB_V102.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : bk MCU_USB_V102.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D15
+    D16
+    D18
+*************************************************************
+
